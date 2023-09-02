@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "users" ADD COLUMN     "fuga" INTEGER NOT NULL DEFAULT 0;
